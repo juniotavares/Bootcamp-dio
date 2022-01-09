@@ -1,0 +1,1 @@
+O que é javascript - é uma ligugem de programação de alto nivel ou seja se assemelhar com a liguagem humana que integra app e paginas web. e serve pra criar escripts dinamicos.
